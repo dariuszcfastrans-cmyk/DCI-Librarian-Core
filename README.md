@@ -23,5 +23,4 @@ Inteligentny system przetwarzania i weryfikacji danych opracowany przez **DCI Ve
 ---
 ### ☕ Support the Lab / Wesprzyj projekt
 If you believe in the vision of DCI Veridictum Lab, you can support my work here:
-Coming Soon
-[Patronite - DCI Veridictum Lab](TWOJ_LINK_DO_PATRONITE_TUTAJ) 
+[Patronite - DCI Veridictum Lab](DCI_Veridictum_Lab) 
